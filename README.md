@@ -7,7 +7,7 @@ Here is some sample documentation
 
 # Confofmal Coating instructions
 
-[] cover the stuff
-[] spray it 
-[] ???
-[] profit	
+[ ] cover the stuff
+[ ] spray it 
+[ ] ???
+[ ] profit	
